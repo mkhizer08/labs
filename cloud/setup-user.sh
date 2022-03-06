@@ -106,7 +106,7 @@ update_conf()
 ############### MAIN ###################
 
 USER="mkhizer"
-GROUP="devops"
+GROUP="mkhizer"
 passw="Welcome@345"
 
 if [ -f /etc/os-release ];then
